@@ -1,0 +1,6 @@
+title: nixhacks
+description: Hands-on notes on infrastructure and cloud-native security
+theme: minima
+plugins:
+  - jekyll-feed
+github_username: nixhacks
